@@ -16,9 +16,12 @@ This project covers basic necessities of most APIs.
 * [MongoDB](http://mongodb.org/)
 * [Mongoose](http://mongoosejs.com/)
 * [JWT](https://jwt.io/)
+* [Gulp](https://github.com/gulpjs/gulp/)
+* [Morgan](https://github.com/expressjs/morgan/)
 * [Nodemon](http://nodemon.io/)
 * [Mocha](https://mochajs.org/)
 * [ESLint](http://eslint.org/)
+* [PM2](https://github.com/Unitech/pm2/)
 
 ## Installation
 ```bash

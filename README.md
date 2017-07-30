@@ -8,7 +8,7 @@ This project covers basic necessities of most APIs.
 * Testing (mocha)
 
 ## Requirements
-* node
+* NodeJS
 * MongoDB
 
 ## Features

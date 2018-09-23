@@ -1,4 +1,4 @@
-﻿import mongoose from 'mongoose'
+import mongoose from 'mongoose'
 import bcrypt from 'bcrypt'
 import config from '../../config'
 import jwt from 'jsonwebtoken'

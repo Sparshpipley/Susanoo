@@ -5,6 +5,7 @@
     "mocha": true
   },
   "rules": {
-    "indent": [ "error", "tab" ]
+    "indent": [ "error", "tab" ],
+    "no-tabs": 0
   }
 }
